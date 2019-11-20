@@ -1,0 +1,21 @@
+D:\C#\Day 2\TempConverterZafar\TempConverterZafar\bin\Debug\TempConverterZafar.exe.config
+D:\C#\Day 2\TempConverterZafar\TempConverterZafar\bin\Debug\TempConverterZafar.exe
+D:\C#\Day 2\TempConverterZafar\TempConverterZafar\bin\Debug\TempConverterZafar.pdb
+D:\C#\Day 2\TempConverterZafar\TempConverterZafar\obj\Debug\TempConverterZafar.csprojResolveAssemblyReference.cache
+D:\C#\Day 2\TempConverterZafar\TempConverterZafar\obj\Debug\TempConverterZafar.Form1.resources
+D:\C#\Day 2\TempConverterZafar\TempConverterZafar\obj\Debug\TempConverterZafar.Properties.Resources.resources
+D:\C#\Day 2\TempConverterZafar\TempConverterZafar\obj\Debug\TempConverterZafar.csproj.GenerateResource.Cache
+D:\C#\Day 2\TempConverterZafar\TempConverterZafar\obj\Debug\TempConverterZafar.exe
+D:\C#\Day 2\TempConverterZafar\TempConverterZafar\obj\Debug\TempConverterZafar.pdb
+D:\C#\Week 1 HW\TempConverterZafar\TempConverterZafar\bin\Debug\TempConverterZafar.exe.config
+D:\C#\Week 1 HW\TempConverterZafar\TempConverterZafar\obj\Debug\TempConverterZafar.exe
+D:\C#\Week 1 HW\TempConverterZafar\TempConverterZafar\obj\Debug\TempConverterZafar.pdb
+D:\C#\Homework\TempConverterZafar\TempConverterZafar\bin\Debug\TempConverterZafar.exe.config
+D:\C#\Homework\TempConverterZafar\TempConverterZafar\obj\Debug\TempConverterZafar.exe
+D:\C#\Homework\TempConverterZafar\TempConverterZafar\obj\Debug\TempConverterZafar.pdb
+D:\C#\Test 1\Homework\TempConverterZafar\TempConverterZafar\bin\Debug\TempConverterZafar.exe.config
+D:\C#\Test 1\Homework\TempConverterZafar\TempConverterZafar\obj\Debug\TempConverterZafar.exe
+D:\C#\Test 1\Homework\TempConverterZafar\TempConverterZafar\obj\Debug\TempConverterZafar.pdb
+E:\C#\Test 1\Homework\TempConverterZafar\TempConverterZafar\bin\Debug\TempConverterZafar.exe.config
+E:\C#\Test 1\Homework\TempConverterZafar\TempConverterZafar\obj\Debug\TempConverterZafar.exe
+E:\C#\Test 1\Homework\TempConverterZafar\TempConverterZafar\obj\Debug\TempConverterZafar.pdb
